@@ -4,7 +4,7 @@
 <p align-text="left">💻 Projeto desenvolvido para o programa one<br/> que
     consiste em um gerenciador de livros e autores,<br/> permitindo que o usuário possa buscar informações<br/> sobre livros, autores e seus respectivos dados.</p>
     
-<h2 align-text="left">Funcionalides</h2>
+<h2 align-text="left">Funcionalidades</h2>
 <ul>
   <li>Busca livro pelo título</li>
   <li>Listagem de livros registrados</li>
@@ -24,4 +24,4 @@
 
 <h2 align-text="left">API:</h2>
 <p>A Api consumida foi a Gutendex, usada para obter as informações dos livros e seus autores.</p>
-<p>https://www.exchangerate-api.com/</p>
+<p>https://gutendex.com/</p>
