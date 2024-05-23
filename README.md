@@ -2,7 +2,7 @@
 
 <h2 align-text="left">Sobre</h2>
 <p align-text="left">💻 Projeto desenvolvido para o programa one<br/> que
-    consiste em um gerenciador de livros e autores,<br/> permitindo que o usuário possa buscar informações sobre livros, autores e seus respectivos dados.</p>
+    consiste em um gerenciador de livros e autores,<br/> permitindo que o usuário possa buscar informações<br/> sobre livros, autores e seus respectivos dados.</p>
     
 <h2 align-text="left">Funcionalides</h2>
 <ul>
